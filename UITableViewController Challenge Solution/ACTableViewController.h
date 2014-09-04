@@ -1,5 +1,5 @@
 //
-//  ACViewController.h
+//  ACTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Andrew Carmichael on 9/3/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ACViewController : UIViewController
+@interface ACTableViewController : UITableViewController
 
 @end
